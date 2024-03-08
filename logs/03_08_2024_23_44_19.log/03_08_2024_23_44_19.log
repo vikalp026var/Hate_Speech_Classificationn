@@ -1,0 +1,3 @@
+[2024-03-08 23:44:19,183] root -INFO - Enter the get_data_from_github methof of Data Ingestion Class
+[2024-03-08 23:44:19,183] root -INFO - SUccess---
+[2024-03-08 23:44:24,747] root -INFO - Successfully Read the data and save into artifacts folder 
