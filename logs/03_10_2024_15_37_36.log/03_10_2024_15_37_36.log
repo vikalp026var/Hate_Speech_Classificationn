@@ -1,0 +1,11 @@
+[2024-03-10 15:37:44,809] h5py._conv -DEBUG - Creating converter from 7 to 5
+[2024-03-10 15:37:44,809] h5py._conv -DEBUG - Creating converter from 5 to 7
+[2024-03-10 15:37:44,809] h5py._conv -DEBUG - Creating converter from 7 to 5
+[2024-03-10 15:37:44,809] h5py._conv -DEBUG - Creating converter from 5 to 7
+[2024-03-10 15:37:47,968] root -INFO - Enter the Model_EVulation
+[2024-03-10 15:37:48,250] root -INFO - Get the X_test and Y_test After the Model Training 
+[2024-03-10 15:37:48,374] h5py._conv -DEBUG - Creating converter from 3 to 5
+[2024-03-10 15:37:49,091] root -INFO - Model is Load Successfully 
+[2024-03-10 15:38:18,300] root -INFO - Accuracy is [0.17767292261123657, 0.9369988441467285]
+[2024-03-10 15:38:43,299] root -INFO - Confusin matrix is [[6480  318]
+ [ 397 4154]]

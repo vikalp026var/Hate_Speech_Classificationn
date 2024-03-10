@@ -1,0 +1,7 @@
+[2024-03-10 15:35:01,936] tensorflow -DEBUG - Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+[2024-03-10 15:35:02,357] h5py._conv -DEBUG - Creating converter from 7 to 5
+[2024-03-10 15:35:02,357] h5py._conv -DEBUG - Creating converter from 5 to 7
+[2024-03-10 15:35:02,357] h5py._conv -DEBUG - Creating converter from 7 to 5
+[2024-03-10 15:35:02,357] h5py._conv -DEBUG - Creating converter from 5 to 7
+[2024-03-10 15:35:04,300] root -INFO - Enter the Model_EVulation
+[2024-03-10 15:35:04,490] root -INFO - Get the X_test and Y_test After the Model Training 
